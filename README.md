@@ -1,0 +1,2 @@
+# computo
+reparacion de computo 
